@@ -309,11 +309,11 @@ Create a seamless, user-friendly DeFi platform that bridges traditional finance 
 
 ## 📞 Contact & Resources
 
-- **Platform**: [defai.h3ir.com](https://swap.defairewards.com)
-- **Documentation**: [docs.defai.h3ir.com](https://docs.defai.h3ir.com)
-- **GitHub**: [github.com/h3ir/defai-platform](https://github.com/h3ir/elizafinance)
+- **Platform**: [https://swap.defairewards.net](https://swap.defairewards.net)
+- **GitHub**: [github.com/elizafinace](https://github.com/elizafinance)
 - **Discord**: [discord.gg/defai](https://discord.gg/defai)
-- **Twitter**: [@defai_platform](https://twitter.com/defairewards)
+- **Telegram**: [https://t.me/defairewards](https://t.me/defairewards)
+- **Twitter**: [@defairewards](https://x.com/defairewards)
 - **Email**: defairewards@gmail.com
 
 ---
